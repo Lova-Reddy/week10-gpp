@@ -1,4 +1,4 @@
-# Kafka Microservice - Week 10 F3
+# Kafka Microservice
 
 A Node.js microservice demonstrating Kafka Producer and Consumer functionality with idempotency.
 
