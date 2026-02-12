@@ -15,10 +15,7 @@ A Node.js microservice demonstrating Kafka Producer and Consumer functionality w
 
 ## Setup & Running
 
-1.  **Clone the repository** (if applicable) and navigate to the project directory:
-    ```bash
-    cd d:/gpp/week10/week10_F3/app
-    ```
+1.  **Clone the repository** and navigate to the project directory:
 
 2.  **Start the services using Docker Compose**:
     ```bash
